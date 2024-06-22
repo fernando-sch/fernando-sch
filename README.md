@@ -8,13 +8,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fe428e&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Web+Developer;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 </div>
 
-### Keep exploring, Keep growing.
+### Keep learning, Keep growing.
 
 #### 👨🏻‍💻 About Me
 
-💡 I like to explore new technologies and develop software solutions.
-🌱 I'm on track for learning more about Systems Design and Cloud Architecture.
-📖 In my free time, I love to read stories, from books to comics and everything in between..
+💡 I like to explore new technologies and develop software solutions.  
+🌱 I'm on track for learning more about Systems Design and Cloud Architecture.  
+📖 In my free time, I love to read stories, from books to comics and everything in between..  
 ✉️ You can shoot me an email at **fer.schneider.2000@gmail.com**
 
 ### 🚀 GitHub Analytics
@@ -37,7 +37,7 @@
 ### 🤝 Let's Connect..!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernando-schneider-dev/" target="blank">
+  <a href="https://www.linkedin.com/in/fernando-schneider-dev/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
 </p>
