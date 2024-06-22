@@ -4,7 +4,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fe428e&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Web+Developer;Love+to+learn+new+stuffs..%3C3)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fe428e&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Web+Developer;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
+</div>
 
 ### Keep exploring, Keep growing.
 
@@ -35,7 +37,7 @@
 ### 🤝 Let's Connect..!
 
 <p align="center">
-  <a hre f="https://www.linkedin.com/in/fernando-schneider-dev/" target="blank">
+  <a href="https://www.linkedin.com/in/fernando-schneider-dev/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
 </p>
