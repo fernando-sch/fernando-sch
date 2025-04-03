@@ -13,26 +13,24 @@
 #### 👨🏻‍💻 About Me
 
 💡 I like to explore new technologies and develop software solutions.  
-🌱 I'm on track for learning more about Systems Design and Cloud Architecture.  
+<!-- 🌱 I'm on track for learning more about Systems Design and Cloud Architecture.   -->
 📖 In my free time, I love to read stories, from books to comics and everything in between..  
-✉️ You can shoot me an email at **fer.schneider.2000@gmail.com**
 
 ### 🚀 GitHub Analytics
 
 <p align="center">
   <img max-width="64%" alt="Fernando's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernando-sch&show_icons=true&theme=radical">
-  <img max-width="34%" alt="Fernando's Github Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fernando-sch&langs_count=5&theme=radical"/>
 </p>
 
-<h3>
+<!-- <h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" height="20"> Tech Stack
-</h3>
+</h3> -->
 
-<p align="center">
+<!-- <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,elixir,go,express,prisma,html,css,tailwind,docker,postgres,mysql,mongodb,graphql,aws,gcp,kubernetes,vercel,git,github,md,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=elixir,docker,postgres,mysql,tailwind,go&perline=14" />
   </a>
-</p>
+</p> -->
 
 ### 🤝 Let's Connect..!
 
